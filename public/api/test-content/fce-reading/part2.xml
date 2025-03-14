@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<body>
+  <div xmlns:connect="http://connect.ucles.org.uk/ns/ConnectDeliveryEngine" connect:class="itemBody" connect:itemNumber="2" connect:partNumber="2" connect:sectionName="Part 2:">
+    <div connect:class="container">
+      <div connect:class="rubricBlock" connect:view="candidate">
+        <p>Read the text. Think of the word which best fits each gap. Write the correct word in each gap (<strong>9</strong> – <strong>16</strong>).</p>
+      </div>
+    </div>
+    <div connect:class="container">
+      <div connect:author-class="container inlineTextEntry">
+        <p><span connect:author-class="large"><strong>Motorbike stunt rider</strong></span>I work as a motorbike stunt rider – that is, I do tricks on my motorbike at shows. The Le Mans race track in France was <span connect:class="textEntryInteraction inlineInteraction stringInteraction interaction"><span class="questionNumber">9</span><input connect:expectedLength="20" connect:responseIdentifier="FCE3CB-F32T0289CB-0-4" size="20" type="text" /></span> I first saw some guys doing motorbike stunts. I'd never seen anyone riding a motorbike using just the back wheel before and I was <span connect:class="textEntryInteraction inlineInteraction stringInteraction interaction"><span class="questionNumber">10</span><input connect:expectedLength="20" connect:responseIdentifier="FCE3CB-F32T0289CB-0-6" size="20" type="text" /></span> impressed I went straight home and taught <span connect:class="textEntryInteraction inlineInteraction stringInteraction interaction"><span class="questionNumber">11</span><input connect:expectedLength="20" connect:responseIdentifier="FCE3CB-F32T0289CB-0-7" size="20" type="text" /></span>to do the same. It wasn't very long before I began to earn my living at shows performing my own motorbike stunts.<br />
+        I have a degree<span connect:class="textEntryInteraction inlineInteraction stringInteraction interaction"><span class="questionNumber">12</span><input connect:expectedLength="20" connect:responseIdentifier="FCE3CB-F32T0289CB-0-5" size="20" type="text" /></span> mechanical engineering; this helps me to look at the physics<span connect:class="textEntryInteraction inlineInteraction stringInteraction interaction"><span class="questionNumber">13</span><input connect:expectedLength="20" connect:responseIdentifier="FCE3CB-F32T0289CB-0-10" size="20" type="text" /></span> lies behind each stunt. In addition to being responsible for design changes to the motorbike, I have to work<span connect:class="textEntryInteraction inlineInteraction stringInteraction interaction"><span class="questionNumber">14</span><input connect:expectedLength="20" connect:responseIdentifier="FCE3CB-F32T0289CB-0-12" size="20" type="text" /></span> every stunt I do. People often think that my work is very dangerous, but, apart <span connect:class="textEntryInteraction inlineInteraction stringInteraction interaction"><span class="questionNumber">15</span><input connect:expectedLength="20" connect:responseIdentifier="FCE3CB-F32T0289CB-0-13" size="20" type="text" /></span> some minor mechanical problem happening occasionally during a stunt, nothing ever goes wrong. I never feel in <span connect:class="textEntryInteraction inlineInteraction stringInteraction interaction"><span class="questionNumber">16</span><input connect:expectedLength="20" connect:responseIdentifier="FCE3CB-F32T0289CB-0-14" size="20" type="text" /></span> kind of danger because I'm very experienced.</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
